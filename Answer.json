@@ -1,0 +1,126 @@
+[
+    {
+        "Clipboard": {
+            "onCopy": "onCopy is an event handler that is triggered when the user copies content from an HTML element to the clipboard using the "copy" command or keyboard shortcut. This event handler can be used to execute a JavaScript function or perform some other action when content is copied.",
+            "onCut": "onCut is an event handler that is triggered when the user cuts content from an HTML element to the clipboard using the "cut" command or keyboard shortcut. This event handler can be used to execute a JavaScript function or perform some other action when content is cut.",
+            "onPaste": "onPaste is an event handler that is triggered when the user pastes content from the clipboard into an HTML element using the "paste" command or keyboard shortcut. This event handler can be used to execute a JavaScript function or perform some other action when content is pasted."
+        }
+    },
+    {
+        "Composition": {
+            "onCompositionEnd": "A React event that occurs when text composition is finished.",
+            "onCompositionStart": "A React event that occurs when text composition begins.",
+            "onCompositionUpdate": "A React event that occurs when text composition is updated."
+        }
+    },
+    {
+        "Keyboard": {
+            "onKeyDown": "A React event that occurs when a key on the keyboard is pressed down.",
+            "onKeyPress": "A React event that occurs when a key on the keyboard is pressed down and released.",
+            "onKeyUp": "A React event that occurs when a key on the keyboard is released."
+        }
+    },
+    {
+        "Focus": {
+            "onFocus": "A React event that occurs when an element gains focus.",
+            "onBlur": "A React event that occurs when an element loses focus."
+        }
+    },
+    {
+        "Form": {
+            "onChange": "A React event that occurs when the value of a form element changes.",
+            "onInput": "A React event that occurs when the value of a form element is modified.",
+            "onSubmit": "A React event that occurs when a form is submitted."
+        }
+    },
+    {
+        "Mouse": {
+            "onClick": "A React event that occurs when the mouse button is clicked.",
+            "onContextMenu": "A React event that occurs when the context menu is opened.",
+            "onDoubleClick": "A React event that occurs when the mouse button is double-clicked.",
+            "onDrag": "A React event that occurs when an element is dragged.",
+            "onDragEnd": "A React event that occurs when a drag operation is finished.",
+            "onDragEnter": "A React event that occurs when an element is dragged over another element.",
+            "onDragExit": "A React event that occurs when an element is dragged out of another element.",
+            "onDragLeave": "A React event that occurs when an element is dragged out of another element.",
+            "onDragOver": "A React event that occurs when an element is dragged over another element.",
+            "onDragStart": "A React event that occurs when a drag operation is started.",
+            "onDrop": "A React event that occurs when an element is dropped onto another element.",
+            "onMouseDown": "A React event that occurs when the mouse button is pressed down on an element..",
+            "onMouseEnter": "A React event that occurs when the mouse enters an element.",
+            "onMouseLeave": "A React event that occurs when the mouse leaves an element.",
+            "onMouseMove": "A React event that occurs when the mouse is moved over an element.",
+            "onMouseOut": "A React event that occurs when the mouse leaves an element.",
+            "onMouseOver": "A React event that occurs when the mouse enters an element.",
+            "onMouseUp": "A React event that occurs when the mouse button is released over an element."
+        }
+    },
+    {
+        "Selection": {
+            "onSelect": "A React event that occurs when text or other content is selected.",
+        }
+    },
+    {
+        "Touch": {
+            "onTouchCancel": "This is an event that occurs when a touch event is cancelled.",
+            "onTouchEnd": "A React event that occurs when a touch event ends.",
+            "onTouchMove": "A React event that occurs when a touch point is moved along the screen.",
+            "onTouchStart": "A React event that occurs when a touch point is placed on the screen."
+        }
+    },
+    {
+        "UI": {
+            "onScroll": "A React event that occurs when an element is scrolled."
+        }
+    },
+    {
+        "Mouse Wheel": {
+            "onWheel": "A React event that occurs when the mouse wheel is scrolled, allowing developers to respond to these scrolling events in their application."
+        }
+    },
+    {
+        "Media": {
+            "onAbort": "A React event that occurs when a media file is aborted during loading.",
+            "onCanPlay": "A React event that occurs when a media file can begin playback.",
+            "onCanPlayThrough": "A React event that occurs when a media file can be played through without interruption.",
+            "onDurationChange": "A React event that occurs when the duration of a media file is changed.",
+            "onEmptied": "A React event that occurs when a media element's resource is emptied.",
+            "onEncrypted": "A React event that occurs when a media file has been encrypted.",
+            "onEnded": "A React event that occurs when a media file has finished playing.",
+            "onError": "A React event that occurs when an error occurs while loading a media file.",
+            "onLoadedData": "A React event that occurs when the first frame of a media file has been loaded.",
+            "onLoadedMetaData": "A React event that occurs when metadata for a media file has been loaded.",
+            "onLoadStart": "A React event that occurs when loading of a media file has started.",
+            "onPause": "A React event that occurs when a media file is paused.",
+            "onPlay": "A React event that occurs when a media file is played.",
+            "onPlaying": "A React event that occurs when a media file is currently playing.",
+            "onProgress": "A React event that occurs while a media file is being downloaded.",
+            "onRateChange": "A React event that occurs when the playback rate of a media file changes.",
+            "onSeeked": "A React event that occurs when a seek operation has completed.",
+            "onSeeking": "A React event that occurs when a seek operation is being performed.",
+            "onStalled": "A React event that occurs when the browser is trying to download a media file but is unable to do so.",
+            "onSuspend": "A React event that occurs when the browser has stopped downloading a media file.",
+            "onTimeUpdate": "A React event that occurs when the current playback position of a media file changes.",
+            "onVolumeChange": "A React event that occurs when the volume of a media file changes.",
+            "onWaiting": "A React event that occurs when a media file is waiting to download."
+        }
+    },
+    {
+        "Image": {
+            "onLoad": "A React event that occurs when an image is loaded.",
+            "onError": "A React event that occurs when an error occurs while loading an image."
+        }
+    },
+    {
+        "Animation": {
+            "onAnimationStart": "A React event that occurs when an animation starts.",
+            "onAnimationEnd": "A React event that occurs when an animation ends.",
+            "onAnimationIteration": "A React event that occurs when an animation iteration is completed."
+        }
+    },
+    {
+        "Transition": {
+            "onTransitionEnd": "A React event that occurs when a CSS transition ends."
+        }
+    },
+]
